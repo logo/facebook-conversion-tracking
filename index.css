@@ -3,14 +3,8 @@
  * Facebook Conversion Tracking
  */
 
-<<<<<<< HEAD
-.logo[data-logo="Facebook Ads"] {
-  width: 8.79929372727086em;
-=======
 .logo[data-logo="Facebook Conversion Tracking"] {
-  width: 5.544328758398224em;
->>>>>>> 796b38952ea48e6fd2e44a07bce1bc84311619fa
-  /* (348.36/48.52) * (1-.1-.125) - 0 */
+  width: 8.79929372727086em;
 }
 
 .logo[data-logo="Facebook Conversion Tracking"] > * {
