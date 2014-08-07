@@ -1,8 +1,8 @@
 {
-  "logo": "Facebook Ads",
-  "name": "facebook-ads",
+  "logo": "Facebook Conversion Tracking",
+  "name": "facebook-conversion-tracking",
   "version": "0.0.1",
-  "repo": "logo/facebook-ads",
+  "repo": "logo/facebook-conversion-tracking",
   "images": [
     "images/logo-black.svg",
     "images/logo-white.svg",

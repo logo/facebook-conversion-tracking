@@ -1,22 +1,27 @@
 
 /**
- * Facebook Ads
+ * Facebook Conversion Tracking
  */
 
+<<<<<<< HEAD
 .logo[data-logo="Facebook Ads"] {
   width: 8.79929372727086em;
+=======
+.logo[data-logo="Facebook Conversion Tracking"] {
+  width: 5.544328758398224em;
+>>>>>>> 796b38952ea48e6fd2e44a07bce1bc84311619fa
   /* (348.36/48.52) * (1-.1-.125) - 0 */
 }
 
-.logo[data-logo="Facebook Ads"] > * {
+.logo[data-logo="Facebook Conversion Tracking"] > * {
   background-image: url(images/logo.svg);
   margin: .1em 0 .125em 0;
 }
 
-.logo[data-logo="Facebook Ads"][data-color="black"] > * {
+.logo[data-logo="Facebook Conversion Tracking"][data-color="black"] > * {
   background-image: url(images/logo-black.svg);
 }
 
-.logo[data-logo="Facebook Ads"][data-color="white"] > * {
+.logo[data-logo="Facebook Conversion Tracking"][data-color="white"] > * {
   background-image: url(images/logo-white.svg);
 }
