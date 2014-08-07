@@ -1,11 +1,11 @@
 
-# facebook-ads
+# facebook-conversion-tracking
 
-  facebook-ads logo
+  facebook-conversion-tracking logo
 
 ## Installation
 
-    $ component install logo/facebook-ads
+    $ component install logo/facebook-conversion-tracking
 
 ## License
 
