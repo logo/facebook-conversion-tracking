@@ -1,7 +1,7 @@
 {
   "logo": "Facebook Conversion Tracking",
   "name": "facebook-conversion-tracking",
-  "version": "0.0.1",
+  "version": "0.2.0",
   "repo": "logo/facebook-conversion-tracking",
   "images": [
     "images/logo-black.svg",
