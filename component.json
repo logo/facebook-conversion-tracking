@@ -9,7 +9,7 @@
     "images/logo.svg"
   ],
   "styles": [
-    "index.css"
+    "style.css"
   ],
   "development": {
     "logo/logo": "*"
